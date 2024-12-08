@@ -20,7 +20,7 @@ Este é um projeto desenvolvido como parte da disciplina de **Programação Web*
 
 ---
 
-## 🗂 Estrutura do Projeto
+## Estrutura do Projeto
 Project/
 ├── assets/
 │   ├── css/
