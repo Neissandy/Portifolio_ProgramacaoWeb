@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é o pioneiro do zodíaco, cheio de energia e determinação. É um líder natural, sempre disposto a enfrentar novos desafios com coragem e entusiasmo. Impulsivo, age antes de pensar, o que o torna um tanto imprudente às vezes. Extremamente competitivo, adora ser o primeiro em tudo. Apesar de sua intensidade, Áries é sincero e leal, mas pode ser impaciente e teimoso quando as coisas não acontecem como deseja.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é um signo ligado à estabilidade e ao conforto. Paciente e confiável, busca construir uma vida segura e tranquila. Amante das coisas boas da vida, valoriza o luxo, a comida e a beleza ao seu redor. É persistente e trabalhador, mas sua teimosia pode dificultar mudanças necessárias. No entanto, Touro é extremamente leal e protetor com aqueles que ama, sendo um parceiro confiável e afetuoso.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é conhecido por sua curiosidade e versatilidade. Sempre em busca de novas experiências, adora aprender, conversar e socializar. Inteligente e criativo, tem uma mente rápida e facilidade para se adaptar a diferentes situações. No entanto, sua dualidade pode torná-lo indeciso e inconstante, mudando de opinião ou foco com frequência. Gêmeos valoriza a liberdade e a troca de ideias, sendo um excelente comunicador.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é um signo profundamente emocional e ligado à família. Sensível e intuitivo, tem uma forte conexão com seus sentimentos e os dos outros. É protetor e acolhedor, sempre cuidando daqueles que ama. Porém, sua natureza reservada pode fazê-lo parecer distante. Às vezes, pode se tornar melancólico ou retraído, especialmente quando se sente vulnerável. Apesar disso, sua lealdade e compaixão são inabaláveis.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é confiante, carismático e adora ser o centro das atenções. Dotado de uma presença marcante, é generoso e protetor com os que estão ao seu redor. Tem uma energia contagiante e uma forte necessidade de reconhecimento. No entanto, seu orgulho pode torná-lo teimoso ou dominador. Mesmo assim, Leão é leal e tem um coração enorme, disposto a ajudar e inspirar os outros.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é prático, analítico e perfeccionista. Sempre atento aos detalhes, busca a excelência em tudo o que faz. É organizado e dedicado, sendo um excelente planejador. Contudo, sua autocobrança pode levá-lo a ser crítico consigo mesmo e com os outros. Apesar disso, Virgem é leal e sempre disposto a ajudar, especialmente com sua habilidade natural para resolver problemas de forma eficiente.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é o signo da harmonia e do equilíbrio. Diplomático e encantador, adora ambientes pacíficos e belas conexões sociais. Tem uma habilidade natural para mediar conflitos e buscar a justiça. No entanto, sua indecisão pode ser um desafio, pois evita confrontos a qualquer custo. Libra valoriza a estética e as relações humanas, sendo um grande parceiro e amigo.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é intenso, misterioso e profundamente emocional. Determinado e focado, é capaz de superar qualquer obstáculo para alcançar seus objetivos. Tem uma personalidade magnética e é extremamente leal, mas pode ser desconfiado ou possessivo. Sua profundidade emocional o torna um signo transformador, sempre em busca de autoconhecimento e evolução.</descricao>
+    </signo>
+        <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é otimista, aventureiro e amante da liberdade. Sempre em busca de novas experiências, adora explorar o mundo e expandir seus horizontes. É sincero e direto, às vezes até demais, mas seu entusiasmo é contagiante. Sua busca por conhecimento e verdade o torna um filósofo nato, embora possa ser impaciente ou descuidado com detalhes.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é ambicioso, disciplinado e determinado. Valorizando a tradição e o trabalho duro, busca alcançar suas metas com paciência e estratégia. É prático e responsável, mas pode ser reservado ou emocionalmente distante. Apesar de sua seriedade, Capricórnio tem um senso de humor único e é profundamente leal àqueles que ama.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é inovador, independente e visionário. Sempre à frente de seu tempo, adora ideias novas e causas humanitárias. Valoriza sua liberdade acima de tudo, o que pode fazê-lo parecer distante ou imprevisível. No entanto, é leal e comprometido com o bem maior, sendo um excelente amigo e líder em projetos que envolvem mudanças positivas.</descricao>
+    </signo>
+
+        <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é sonhador, sensível e cheio de compaixão. Tem uma imaginação rica e uma conexão profunda com o mundo emocional. É altruísta, sempre disposto a ajudar os outros, mas pode ser escapista quando a realidade se torna difícil. Sua intuição e criatividade o tornam único, sendo um amigo e parceiro empático e leal.</descricao>
+    </signo>
+</signos>
