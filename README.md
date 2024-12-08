@@ -21,7 +21,7 @@ Este é um projeto desenvolvido como parte da disciplina de **Programação Web*
 ---
 
 ## Estrutura do Projeto
-Project/
+'''Project/
 ├── assets/
 │   ├── css/
 │   │   └── style.css
@@ -33,6 +33,7 @@ Project/
     ├── index.php
     ├── show_zodiac_sign.php
     └── signos.xml
+'''
 
   
 
